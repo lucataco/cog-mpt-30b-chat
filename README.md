@@ -6,7 +6,7 @@ Attempt at creating a cog wrapper for [mosaicml/mpt-30b-chat](https://huggingfac
 
 `cog build -t mpt-chat`
 
-`docker run -d -p 5000:5000 --gpus all mpt-cha`
+`docker run -d -p 5000:5000 --gpus all mpt-chat`
 
 ## Test
 
